@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg10_HelloWorld", "Opg10_HelloWorld\Opg10_HelloWorld.csproj", "{DA7CA045-E783-4C82-BA86-7E25A10B5691}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpgaveVariabler", "..\..\git\KursusOpgaver\OpgaveVariabler\OpgaveVariabler.csproj", "{AE56BAB9-B997-436C-A06B-F1695CAB2FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04_Ref", "Modul04_Ref\Modul04_Ref.csproj", "{8BFD5C80-0578-4804-BB5E-21206E71EBEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DA7CA045-E783-4C82-BA86-7E25A10B5691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7CA045-E783-4C82-BA86-7E25A10B5691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7CA045-E783-4C82-BA86-7E25A10B5691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE56BAB9-B997-436C-A06B-F1695CAB2FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE56BAB9-B997-436C-A06B-F1695CAB2FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE56BAB9-B997-436C-A06B-F1695CAB2FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE56BAB9-B997-436C-A06B-F1695CAB2FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFD5C80-0578-4804-BB5E-21206E71EBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFD5C80-0578-4804-BB5E-21206E71EBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFD5C80-0578-4804-BB5E-21206E71EBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFD5C80-0578-4804-BB5E-21206E71EBEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

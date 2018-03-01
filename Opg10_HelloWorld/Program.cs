@@ -17,4 +17,9 @@ namespace Opg10_HelloWorld
             }
         }
     }
+    enum Køn
+    {
+        Mand = 0,
+        Kvinde = 1
+    }
 }
