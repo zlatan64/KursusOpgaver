@@ -10,6 +10,11 @@ namespace Opg10_HelloWorld
     {
         static void Main(string[] args)
         {
+            if(System.Diagnostics.Debugger.IsAttached)
+            {
+                Console.WriteLine("Press any key...");
+                Console.ReadKey();
+            }
         }
     }
 }
